@@ -1,1 +1,1 @@
-pdfjoin: node pdfjoin.js
+web: node pdfjoin.js
