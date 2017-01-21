@@ -3,13 +3,12 @@
   "version": "0.0.1",
   "description": "Simple Node app to join a list of pdfs based on urls",
   "main": "pdfJoin.js",
-  "devDependencies": 
-  {
+  "devDependencies": {
       "eslint": "^1.10.3"
   },
   "dependencies": {
     "mysql": "^2.11.1",
-    "npm-latest": "^1.0.2",
+    "npm-latest": "^1.0.2"
   },
   "engines": {
     "node": "6.3.0"
